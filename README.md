@@ -69,4 +69,4 @@ All data has been sanitized for public use. No sensitive or proprietary informat
 
 # 🎯 Contact
 
-For any questions or collaboration opportunities, feel free to reach out via GitHub.
+For questions or collaboration opportunities, please reach out via [GitHub](https://github.com/baksben) or visit my [portfolio site](https://baksben.github.io/#contact).
